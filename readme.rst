@@ -11,3 +11,5 @@ Release Information
 Aplikasi ini dikembangkan menggunakan bahasa pemrograman PHP dengan framework CodeIgniter versi 3.
 
 **************************
+Desain UI aplikasi ini dapat diamati pada link berikut
+https://www.figma.com/file/qdk7rENE2LlPbsuEPEO8NN/PPDB-Kota-Bandung
